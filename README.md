@@ -15,3 +15,5 @@ Users holding governance tokens can apply to run for multi signature members.
 The governance token holder votes on the members who have applied for election by means of online voting, and the users with more votes will become the members with more signatures.
 #### Operation vault
 When withdrawing funds from the Treasury, the operation can only be carried out with the consent of multiple members who have reached a predefined number.
+
+
