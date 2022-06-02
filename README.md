@@ -17,3 +17,4 @@ The governance token holder votes on the members who have applied for election b
 When withdrawing funds from the Treasury, the operation can only be carried out with the consent of multiple members who have reached a predefined number.
 
 
+
