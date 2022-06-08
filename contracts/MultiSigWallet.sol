@@ -391,5 +391,3 @@ contract MultiSigWallet {
     }
 }
 
-
-
