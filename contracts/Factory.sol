@@ -40,5 +40,3 @@ contract Factory {
         ContractInstantiation(msg.sender, instantiation);
     }
 }
-
-
