@@ -2,7 +2,6 @@ pragma solidity ^0.4.15;
 import "./Factory.sol";
 import "./MultiSigWalletWithDailyLimit.sol";
 
-
 /// @title Multisignature wallet factory for daily limit version - Allows creation of multisig wallet.
 /// @author Stefan George - <stefan.george@consensys.net>
 contract MultiSigWalletWithDailyLimitFactory is Factory {
