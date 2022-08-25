@@ -1,6 +1,5 @@
 pragma solidity ^0.4.15;
 
-
 /// @title Test token contract - Allows testing of token transfers with multisig wallet.
 contract TestToken {
 
@@ -114,11 +113,3 @@ contract TestToken {
         return balances[_owner];
     }
 }
-
-
-
-
-
-
-
-
