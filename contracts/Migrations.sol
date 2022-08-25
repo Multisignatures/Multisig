@@ -22,10 +22,3 @@ contract Migrations {
   }
 }
 
-
-
-
-
-
-
-
