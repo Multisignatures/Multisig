@@ -1,4 +1,6 @@
-# Multisig
+
+![Photo](https://raw.githubusercontent.com/Multisignatures/Multisig/main/Photo/Multisig.png)
+
 
 ## Project positioning
 Mltisig is a multi signature campaign platform. Any Dao organization can establish a multi signature campaign treasury through mltisig, determine the person in charge of multi signature in the form of campaign, and the person in charge of multi signature will manage the Treasury. Any qualified token holder can sign up for the election of the head of the multi signature Treasury. All the holders of the governance token vote on the candidates in the form of on-line voting, and the winner becomes the person in charge of the multi signature Treasury to manage the funds of the multi signature Treasury.
